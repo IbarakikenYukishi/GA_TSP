@@ -1,0 +1,16 @@
+.DS_Store
+Makefile
+ga
+ga.cpp
+random
+random.cpp
+sample.dat
+sample1.dat
+sample2.dat
+sample3.dat
+test1.dat
+tsp
+tsp.cpp
+visualizer
+visualizer.o
+a.out
